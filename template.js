@@ -28,7 +28,7 @@ const template = (cf) => {
 </head>
 <body>
         <div class="container">
-            <h1>Hello Your accessing this from ${emoji}</h1>
+            <h1>Hello Your connect from ${cf.city} in ${cf.country} ${emoji}</h1>
         </div>
 </body>
 </html>
